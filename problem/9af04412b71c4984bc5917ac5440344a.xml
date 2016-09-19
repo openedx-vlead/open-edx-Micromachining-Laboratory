@@ -1,0 +1,53 @@
+<problem display_name="Multiple Choice" markdown="1. Which type of thermal equation is applicable for EDM/WEDM or?&#10;( ) steady state equation&#10;( ) transient equation&#10;(x) Both of the above&#10;( ) none of the above&#10;&#10;2. Which type of heat source is used in Electrical Discharge Machining (EDM)?&#10;( ) continuous&#10;( ) pulsed&#10;( ) Both of the above&#10;(x) None of the above&#10;&#10;3. The energy source is used by&#10;( ) Dielectric&#10;(x) Tool&#10;( ) Work piece&#10;( ) All of the above&#10;&#10;4. Can the material removal rate be derived form a single pulse heat source and frequency of spark?&#10;( ) Yes&#10;(x) No&#10;( ) Difficult to estimate&#10;( ) Consideration of effective spark energy&#10;&#10;5. Which of the following thermal properties may not be considered while evaluating the material removal rate?&#10;(x) Dielectric fluid&#10;( ) Thermal Conductivity&#10;( ) Evaporation temperature&#10;( ) Melting temperature">
+<p>1. Which type of thermal equation is applicable for EDM/WEDM or?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">steady state equation</choice>
+    <choice correct="false">transient equation</choice>
+    <choice correct="true">Both of the above</choice>
+    <choice correct="false">none of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. Which type of heat source is used in Electrical Discharge Machining (EDM)?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">continuous</choice>
+    <choice correct="false">pulsed</choice>
+    <choice correct="false">Both of the above</choice>
+    <choice correct="true">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. The energy source is used by</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Dielectric</choice>
+    <choice correct="true">Tool</choice>
+    <choice correct="false">Work piece</choice>
+    <choice correct="false">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. Can the material removal rate be derived form a single pulse heat source and frequency of spark?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Yes</choice>
+    <choice correct="true">No</choice>
+    <choice correct="false">Difficult to estimate</choice>
+    <choice correct="false">Consideration of effective spark energy</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. Which of the following thermal properties may not be considered while evaluating the material removal rate?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Dielectric fluid</choice>
+    <choice correct="false">Thermal Conductivity</choice>
+    <choice correct="false">Evaporation temperature</choice>
+    <choice correct="false">Melting temperature</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

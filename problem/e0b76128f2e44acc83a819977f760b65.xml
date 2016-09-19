@@ -1,0 +1,23 @@
+<problem display_name="Multiple Choice" markdown="1. Which is commonly used metal for grinding wheel?&#10;( ) Cast Iron&#10;( ) Stainless Steel&#10;(x) Copper&#10;( ) Aluminium&#10;&#10;2. For grinding steel workpiece which is the commonly used abrasive material?&#10;( ) Ceramic&#10;( ) Zinc Oxide&#10;( ) Glass Powder&#10;(x) Aluminium Oxide&#10;">
+<p>1. Which is commonly used metal for grinding wheel?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Cast Iron</choice>
+    <choice correct="false">Stainless Steel</choice>
+    <choice correct="true">Copper</choice>
+    <choice correct="false">Aluminium</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. For grinding steel workpiece which is the commonly used abrasive material?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Ceramic</choice>
+    <choice correct="false">Zinc Oxide</choice>
+    <choice correct="false">Glass Powder</choice>
+    <choice correct="true">Aluminium Oxide</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
