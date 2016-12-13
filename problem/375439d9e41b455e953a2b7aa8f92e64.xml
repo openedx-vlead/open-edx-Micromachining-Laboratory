@@ -1,0 +1,48 @@
+<problem display_name="Multiple Choice" markdown="1. In EDM process the crater depth is&#10;( ) Not related to crater diameter.&#10;( ) More than crater diameter.&#10;(x) Less than crater diameter.&#10;( ) Equal to crater diameter.&#10;&#10;2. The metal removal rate in Electrical Discharge Machining (EDM) process is more when&#10;( ) Independent of tool material&#10;( ) Tool material is a bad conductor&#10;( ) The tool material is harder.&#10;(x) The tool material is softer.&#10;&#10;3. The metal removal rate is dependent on&#10;( ) Only on Pulse width.&#10;( ) Only on Current passing.&#10;( ) None of the above.&#10;( ) Only on applied voltage.&#10;(x) All of the above&#10;&#10;4. In MRR estimation Lazeranko’s model considers&#10;( ) Convection mode of heat transfer.&#10;( ) Radiation mode of heat transfer.&#10;(x) All of the above.&#10;( ) None of the above&#10;&#10;5. In EDM, the machining rate using a given tool is more&#10;(x) For softer material.&#10;( ) Independent of material properties.&#10;( ) Non conductive materials.&#10;( ) For harder material.">
+  <p>1. In EDM process the crater depth is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Not related to crater diameter.</choice>
+      <choice correct="false">More than crater diameter.</choice>
+      <choice correct="true">Less than crater diameter.</choice>
+      <choice correct="false">Equal to crater diameter.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. The metal removal rate in Electrical Discharge Machining (EDM) process is more when</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Independent of tool material</choice>
+      <choice correct="false">Tool material is a bad conductor</choice>
+      <choice correct="false">The tool material is harder.</choice>
+      <choice correct="true">The tool material is softer.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. The metal removal rate is dependent on</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Only on Pulse width.</choice>
+      <choice correct="false">Only on Current passing.</choice>
+      <choice correct="false">None of the above.</choice>
+      <choice correct="false">Only on applied voltage.</choice>
+      <choice correct="true">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. In MRR estimation Lazeranko’s model considers</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Convection mode of heat transfer.</choice>
+      <choice correct="false">Radiation mode of heat transfer.</choice>
+      <choice correct="true">All of the above.</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. In EDM, the machining rate using a given tool is more</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">For softer material.</choice>
+      <choice correct="false">Independent of material properties.</choice>
+      <choice correct="false">Non conductive materials.</choice>
+      <choice correct="false">For harder material.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

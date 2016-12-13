@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="1. Laser is a ----- manufacturing process&#10;( ) Selective&#10;( ) Chip less&#10;(x) flexible&#10;( ) Ideal&#10;&#10;2. Laser radiation by itself is a&#10;( ) Thermal process&#10;( ) Non thermal&#10;( ) Ultrasonic&#10;(x) Monochromatic light&#10;&#10;3. Laser material processing of materials is a&#10;(x) Thermal.&#10;( ) Non thermal.&#10;( ) ultrasonic.&#10;( ) ablation.&#10;&#10;4. Laser material processing is associated with&#10;( ) Absorption of total energy.&#10;(x) Adsorption.&#10;( ) Transmission&#10;( ) Reflection&#10;&#10;5. Efficiency of Laser systems for machining is generally&#10;(x) 0.5% to 1%.&#10;( ) 3% to 5%.&#10;( ) 10% to 20%&#10;( ) 30% to 50%">
+  <p>1. Laser is a ----- manufacturing process</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Selective</choice>
+      <choice correct="false">Chip less</choice>
+      <choice correct="true">flexible</choice>
+      <choice correct="false">Ideal</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Laser radiation by itself is a</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Thermal process</choice>
+      <choice correct="false">Non thermal</choice>
+      <choice correct="false">Ultrasonic</choice>
+      <choice correct="true">Monochromatic light</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. Laser material processing of materials is a</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Thermal.</choice>
+      <choice correct="false">Non thermal.</choice>
+      <choice correct="false">ultrasonic.</choice>
+      <choice correct="false">ablation.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. Laser material processing is associated with</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Absorption of total energy.</choice>
+      <choice correct="true">Adsorption.</choice>
+      <choice correct="false">Transmission</choice>
+      <choice correct="false">Reflection</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. Efficiency of Laser systems for machining is generally</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">0.5% to 1%.</choice>
+      <choice correct="false">3% to 5%.</choice>
+      <choice correct="false">10% to 20%</choice>
+      <choice correct="false">30% to 50%</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
