@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown=" 1. In a cooking pan which of the following is important while selecting a material for the pan's handle?&#10;( ) High hardness&#10;( ) High elasticity&#10;( ) High thermal expansion&#10;(x) Low thermal conductivity&#10;&#10;2. In Electrical Discharge Machining (EDM), the heat is supplied&#10;( ) External heating from the source&#10;( ) Due to explosion of the dielectric fluid&#10;( ) Internally due to absorption of spark energy in the surface of materials&#10;(x) Energy distribution from the plasma column created within the spark gap&#10;&#10;3. In wire EDM ,the tool is&#10;( ) Hollow conductive tool&#10;(x) Conductive wire electrode&#10;( ) Conductive solid moving tool&#10;( ) Solid insulating tool&#10;&#10;4. In EDM, generally the working fluid is&#10;( ) Electrolyte&#10;( ) De-ionized water&#10;( ) EDM oil&#10;(x) Kerosene&#10;&#10;5. In wire EDM, generally the working fluid is&#10;( ) Water + Kerosene&#10;( ) Kerosene&#10;(x) De-ionized water&#10;( ) Electrolyte">
+  <p> 1. In a cooking pan which of the following is important while selecting a material for the pan's handle?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">High hardness</choice>
+      <choice correct="false">High elasticity</choice>
+      <choice correct="false">High thermal expansion</choice>
+      <choice correct="true">Low thermal conductivity</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. In Electrical Discharge Machining (EDM), the heat is supplied</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">External heating from the source</choice>
+      <choice correct="false">Due to explosion of the dielectric fluid</choice>
+      <choice correct="false">Internally due to absorption of spark energy in the surface of materials</choice>
+      <choice correct="true">Energy distribution from the plasma column created within the spark gap</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. In wire EDM ,the tool is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Hollow conductive tool</choice>
+      <choice correct="true">Conductive wire electrode</choice>
+      <choice correct="false">Conductive solid moving tool</choice>
+      <choice correct="false">Solid insulating tool</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. In EDM, generally the working fluid is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Electrolyte</choice>
+      <choice correct="false">De-ionized water</choice>
+      <choice correct="false">EDM oil</choice>
+      <choice correct="true">Kerosene</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. In wire EDM, generally the working fluid is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Water + Kerosene</choice>
+      <choice correct="false">Kerosene</choice>
+      <choice correct="true">De-ionized water</choice>
+      <choice correct="false">Electrolyte</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

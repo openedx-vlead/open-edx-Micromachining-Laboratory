@@ -1,0 +1,29 @@
+<problem display_name="Multiple Choice" markdown="1 Which electrode is eaten away in electroplating?&#10;( ) Cathode&#10;(x) Anode&#10;( ) both a and b&#10;( ) None of these&#10;&#10;2. In ECM process the tool act as&#10;(x) Cathode&#10;( ) Anode&#10;( ) both a and b&#10;( ) None of these&#10;&#10;3. ECM is normally used for machining of&#10;( ) Soft Materials&#10;( ) Ceramics&#10;(x) Extremely hard materials&#10;( ) None of these">
+  <p>1 Which electrode is eaten away in electroplating?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Cathode</choice>
+      <choice correct="true">Anode</choice>
+      <choice correct="false">both a and b</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. In ECM process the tool act as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Cathode</choice>
+      <choice correct="false">Anode</choice>
+      <choice correct="false">both a and b</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. ECM is normally used for machining of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Soft Materials</choice>
+      <choice correct="false">Ceramics</choice>
+      <choice correct="true">Extremely hard materials</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
