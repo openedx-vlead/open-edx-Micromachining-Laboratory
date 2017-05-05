@@ -1,23 +1,20 @@
 <problem display_name="Multiple Choice" markdown="1. Does material removal rate in case of ECM depends on hardness of workpiece?&#10;(x) Yes&#10;( ) No&#10;( ) Some time depends&#10;( ) None of these&#10;&#10;2. The commonly used electrolyte in ECM for steel is&#10;( ) Hcl&#10;(x) Nacl&#10;( ) Na2co3&#10;( ) h2So4&#10;">
-<p>1. Does material removal rate in case of ECM depends on hardness of workpiece?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Yes</choice>
-    <choice correct="false">No</choice>
-    <choice correct="false">Some time depends</choice>
-    <choice correct="false">None of these</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. The commonly used electrolyte in ECM for steel is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Hcl</choice>
-    <choice correct="true">Nacl</choice>
-    <choice correct="false">Na2co3</choice>
-    <choice correct="false">h2So4</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. Does material removal rate in case of ECM depends on hardness of workpiece?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Yes</choice>
+      <choice correct="false">No</choice>
+      <choice correct="false">Some time depends</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. The commonly used electrolyte in ECM for steel is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Hcl</choice>
+      <choice correct="true">Nacl</choice>
+      <choice correct="false">Na2co3</choice>
+      <choice correct="false">h2So4</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

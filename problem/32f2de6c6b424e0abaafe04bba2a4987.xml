@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="1. WEDM is used for&#10;( ) Die sinking operation&#10;( ) Pocketing operation&#10;(x) Cutting operation&#10;( ) For machining electrically non conductive material&#10;&#10;2. The tool is of the form&#10;( ) Shape of the job&#10;(x) Wire&#10;( ) Solid rod&#10;( ) Disc&#10;&#10;3. Cutting of very hard electrically conductive material in EDM ,can be performed using&#10;( ) Wire&#10;( ) Metallic Ribbon&#10;( ) Thin metallic softened discs&#10;(x) All of the above&#10;&#10;4. The dielectric fluid used in wire EDM, is generally&#10;( ) Kerosene&#10;( ) Water + Kerosene&#10;(x) Water (De-ionized)&#10;( ) Inert gas&#10;&#10;5. CNC wire EDM, are generally&#10;( ) 2 axis&#10;( ) 3 axis&#10;( ) 4 axis&#10;(x) All of the above">
-<p>1. WEDM is used for</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Die sinking operation</choice>
-    <choice correct="false">Pocketing operation</choice>
-    <choice correct="true">Cutting operation</choice>
-    <choice correct="false">For machining electrically non conductive material</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. The tool is of the form</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Shape of the job</choice>
-    <choice correct="true">Wire</choice>
-    <choice correct="false">Solid rod</choice>
-    <choice correct="false">Disc</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. Cutting of very hard electrically conductive material in EDM ,can be performed using</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Wire</choice>
-    <choice correct="false">Metallic Ribbon</choice>
-    <choice correct="false">Thin metallic softened discs</choice>
-    <choice correct="true">All of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. The dielectric fluid used in wire EDM, is generally</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Kerosene</choice>
-    <choice correct="false">Water + Kerosene</choice>
-    <choice correct="true">Water (De-ionized)</choice>
-    <choice correct="false">Inert gas</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. CNC wire EDM, are generally</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">2 axis</choice>
-    <choice correct="false">3 axis</choice>
-    <choice correct="false">4 axis</choice>
-    <choice correct="true">All of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. WEDM is used for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Die sinking operation</choice>
+      <choice correct="false">Pocketing operation</choice>
+      <choice correct="true">Cutting operation</choice>
+      <choice correct="false">For machining electrically non conductive material</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. The tool is of the form</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Shape of the job</choice>
+      <choice correct="true">Wire</choice>
+      <choice correct="false">Solid rod</choice>
+      <choice correct="false">Disc</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. Cutting of very hard electrically conductive material in EDM ,can be performed using</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Wire</choice>
+      <choice correct="false">Metallic Ribbon</choice>
+      <choice correct="false">Thin metallic softened discs</choice>
+      <choice correct="true">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. The dielectric fluid used in wire EDM, is generally</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Kerosene</choice>
+      <choice correct="false">Water + Kerosene</choice>
+      <choice correct="true">Water (De-ionized)</choice>
+      <choice correct="false">Inert gas</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. CNC wire EDM, are generally</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">2 axis</choice>
+      <choice correct="false">3 axis</choice>
+      <choice correct="false">4 axis</choice>
+      <choice correct="true">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
