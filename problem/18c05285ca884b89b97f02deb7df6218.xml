@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="1. In EDM, the applied pluses voltage is in the order of&#10;( ) 50V DC&#10;( ) 10V AC&#10;(x) 100V DC&#10;( ) 30V DC&#10;&#10;2. The working pulsing frequency in EDM is of the order&#10;( ) 50-200 Hz&#10;( ) 200- 1000 Hz&#10;( ) 50- 200 KHz&#10;(x) 200-500 KHz&#10;&#10;3. The working pulsing frequency in WEDM is of the order&#10;(x) 50- 200 KHz&#10;( ) 200- 1000 Hz&#10;( ) 200-500 KHz&#10;( ) 50-200 Hz&#10;&#10;4. In Micro-EDM, the pulsing frequency is of the order&#10;( ) 500-5000 KHz&#10;( ) 50- 200 KHz&#10;(x) 1 -5 MHz&#10;( ) 200-500 KHz&#10;&#10;5. Can we take similar thermal modes for laser beam or electron beam heating?&#10;( ) No&#10;(x) Yes&#10;( ) Either of them&#10;( ) Yes with Modifications">
-<p>1. In EDM, the applied pluses voltage is in the order of</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">50V DC</choice>
-    <choice correct="false">10V AC</choice>
-    <choice correct="true">100V DC</choice>
-    <choice correct="false">30V DC</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. The working pulsing frequency in EDM is of the order</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">50-200 Hz</choice>
-    <choice correct="false">200- 1000 Hz</choice>
-    <choice correct="false">50- 200 KHz</choice>
-    <choice correct="true">200-500 KHz</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. The working pulsing frequency in WEDM is of the order</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">50- 200 KHz</choice>
-    <choice correct="false">200- 1000 Hz</choice>
-    <choice correct="false">200-500 KHz</choice>
-    <choice correct="false">50-200 Hz</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. In Micro-EDM, the pulsing frequency is of the order</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">500-5000 KHz</choice>
-    <choice correct="false">50- 200 KHz</choice>
-    <choice correct="true">1 -5 MHz</choice>
-    <choice correct="false">200-500 KHz</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. Can we take similar thermal modes for laser beam or electron beam heating?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">No</choice>
-    <choice correct="true">Yes</choice>
-    <choice correct="false">Either of them</choice>
-    <choice correct="false">Yes with Modifications</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. In EDM, the applied pluses voltage is in the order of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">50V DC</choice>
+      <choice correct="false">10V AC</choice>
+      <choice correct="true">100V DC</choice>
+      <choice correct="false">30V DC</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. The working pulsing frequency in EDM is of the order</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">50-200 Hz</choice>
+      <choice correct="false">200- 1000 Hz</choice>
+      <choice correct="false">50- 200 KHz</choice>
+      <choice correct="true">200-500 KHz</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. The working pulsing frequency in WEDM is of the order</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">50- 200 KHz</choice>
+      <choice correct="false">200- 1000 Hz</choice>
+      <choice correct="false">200-500 KHz</choice>
+      <choice correct="false">50-200 Hz</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. In Micro-EDM, the pulsing frequency is of the order</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">500-5000 KHz</choice>
+      <choice correct="false">50- 200 KHz</choice>
+      <choice correct="true">1 -5 MHz</choice>
+      <choice correct="false">200-500 KHz</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. Can we take similar thermal modes for laser beam or electron beam heating?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">No</choice>
+      <choice correct="true">Yes</choice>
+      <choice correct="false">Either of them</choice>
+      <choice correct="false">Yes with Modifications</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
