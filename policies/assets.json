@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "MECH17", 
+            "course": "mech17", 
             "name": "COEP-Micromachining_Laboratory.JPG", 
-            "org": "COE-PUNE", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "COEP-Micromachining Laboratory.JPG", 
-        "filename": "asset-v1:COE-PUNE+MECH17+Anytime+type@asset+block@COEP-Micromachining_Laboratory.JPG", 
+        "filename": "asset-v1:Virtual-Labs+mech17+Anytime+type@asset+block@COEP-Micromachining_Laboratory.JPG", 
         "import_path": "COEP-Micromachining Laboratory.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "COE-PUNE", 
-            "MECH17", 
+            "Virtual-Labs", 
+            "mech17", 
             "thumbnail", 
             "COEP-Micromachining_Laboratory-JPG.jpg", 
             null
